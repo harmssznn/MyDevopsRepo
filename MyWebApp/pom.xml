@@ -6,9 +6,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.mywebapp</groupId>
-    <artifactId>mywebapp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>Harmony.web</groupId>
+    <artifactId>HApp</artifactId>
+    <version>1.0-2.SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>MyWebApp</name>
