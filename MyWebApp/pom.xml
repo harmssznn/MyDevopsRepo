@@ -8,7 +8,7 @@
 
     <groupId>Harmony.web</groupId>
     <artifactId>HApp</artifactId>
-    <version>1.0-2.SNAPSHOT</version>
+    <version>1.0-2.${v}SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>MyWebApp</name>
