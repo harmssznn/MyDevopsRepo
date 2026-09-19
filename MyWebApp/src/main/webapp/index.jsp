@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Wanderlust Travel Explorer</title>
+    <title>Harmonylust Travel Explorer</title>
 
     <style>
 
@@ -455,7 +455,7 @@
     <nav>
 
         <div class="logo">
-            ✈️ Wanderlust
+            ✈️ Harmonylust
         </div>
 
         <ul>
@@ -874,7 +874,7 @@
     <footer>
 
         <p>
-            ✈️ Wanderlust Travel Explorer
+            ✈️ Harmonylust Travel Explorer
         </p>
 
         <p>
@@ -882,7 +882,7 @@
         </p>
 
         <p>
-            © 2026 Wanderlust
+            © 2026 Harmonylust
         </p>
 
     </footer>
